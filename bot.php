@@ -16,6 +16,9 @@ echo "I am a bot";
 echo "I am a bot";
 echo "Hello world!"; 
 ?>
+  
+Welcome <?php echo $_POST["name"]; ?><br>
+Your email address is: <?php echo $_POST["email"]; ?>
 
 </body>
 </html>
