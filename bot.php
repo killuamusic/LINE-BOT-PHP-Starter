@@ -3,8 +3,8 @@
 <body>
 
 <?php
-$txt1 = "Learn PHP";
-$txt2 = "W3Schools.com";
+$txt1 = "Learn PHP Hello world!";
+$txt2 = "I am a bot";
 $x = 5;
 $y = 4;
 
